@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: "Gilroy";
-  src: url("../fonts/Gilroy-Semibold.woff2") format("woff2"), url("../fonts/Gilroy-Semibold.woff") format("woff");
+  src: url("../fonts/Gilroy-SemiBold.woff2") format("woff2"), url("../fonts/Gilroy-SemiBold.woff") format("woff");
   font-display: swap;
   font-weight: 600;
   font-style: normal;
@@ -1585,7 +1585,6 @@ body {
   .nav-header__btn {
     margin: 0;
     padding: 15px 0;
-    height: auto;
     width: 207px;
   }
 
